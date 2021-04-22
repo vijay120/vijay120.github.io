@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I love designing AI systems and building open-source communities. I am currently architecting conversational AI systems that can solve enterprise collaboration using voice and building new machine learning features for [MindMeld](https://github.com/cisco/mindmeld). In my spare time, I love reading about theories of knowledge, philosophy and new technologies.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vrkrish@pm.me](mailto:vrkrish@pm.me)
